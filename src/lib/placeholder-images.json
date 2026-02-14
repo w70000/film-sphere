@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-movie-backdrop",
+      "description": "Backdrop image for the hero section movie",
+      "imageUrl": "https://images.unsplash.com/photo-1608507777764-87bf8d185474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2ktZmklMjBjaXR5fGVufDB8fHx8MTc3MDk5MDM1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi city"
+    },
+    {
+      "id": "movie-poster-1",
+      "description": "Movie poster 1",
+      "imageUrl": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhY3Rpb24lMjBtb3ZpZXxlbnwwfHx8fDE3NzEwMTA2ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "action movie"
+    },
+    {
+      "id": "movie-poster-2",
+      "description": "Movie poster 2",
+      "imageUrl": "https://images.unsplash.com/photo-1764352104134-c3d3840f2977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkcmFtYSUyMG1vdmllfGVufDB8fHx8MTc3MDkyODQ4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drama movie"
+    },
+    {
+      "id": "movie-poster-3",
+      "description": "Movie poster 3",
+      "imageUrl": "https://images.unsplash.com/photo-1766801075478-acfa9a6dcd7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb21lZHklMjBtb3ZpZXxlbnwwfHx8fDE3NzA5OTYxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "comedy movie"
+    },
+    {
+      "id": "movie-poster-4",
+      "description": "Movie poster 4",
+      "imageUrl": "https://images.unsplash.com/photo-1763054766315-e9216ab5e223?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0aHJpbGxlciUyMG1vdmllfGVufDB8fHx8MTc3MTAxMDY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "thriller movie"
+    },
+    {
+      "id": "movie-poster-5",
+      "description": "Movie poster 5",
+      "imageUrl": "https://images.unsplash.com/photo-1621276458961-c1333f310be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb21hbmNlJTIwbW92aWV8ZW58MHx8fHwxNzcwOTA0MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "romance movie"
+    },
+    {
+      "id": "movie-poster-6",
+      "description": "Movie poster 6",
+      "imageUrl": "https://images.unsplash.com/photo-1579519974462-2f005427466a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYW50YXN5JTIwbW92aWV8ZW58MHx8fHwxNzcwOTIzODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy movie"
+    },
+    {
+      "id": "movie-poster-7",
+      "description": "Movie poster 7",
+      "imageUrl": "https://images.unsplash.com/photo-1513704519535-f5c81aa78d0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY2ktZmklMjBtb3ZpZXxlbnwwfHx8fDE3NzA5Mjg0ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi movie"
+    },
+    {
+      "id": "movie-poster-8",
+      "description": "Movie poster 8",
+      "imageUrl": "https://images.unsplash.com/photo-1761948245703-cbf27a3e7502?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhZHZlbnR1cmUlMjBtb3ZpZXxlbnwwfHx8fDE3NzEwMTA2ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adventure movie"
+    }
+  ]
+}
