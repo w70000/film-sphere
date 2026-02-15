@@ -1,5 +1,17 @@
-# Firebase Studio
+##  Instalacja i Uruchomienie
 
-This is a NextJS starter in Firebase Studio.
+Aby uruchomić projekt lokalnie na swoim komputerze, postępuj zgodnie z poniższymi krokami.
 
-To get started, take a look at src/app/page.tsx.
+### 1. Wymagania wstępne
+
+Upewnij się, że masz zainstalowane:
+- [Node.js](https://nodejs.org/) (wersja 18 lub nowsza)
+- [Git](https://git-scm.com/)
+
+### 2. Klonowanie repozytorium
+
+Otwórz terminal i wpisz:
+
+```bash
+git clone https://github.com/w70000/film-sphere.git
+cd film-sphere
