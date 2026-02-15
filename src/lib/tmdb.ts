@@ -105,8 +105,6 @@ const mockMovieDetails: Omit<MovieDetails, keyof Movie> = {
 };
 
 export async function getTrendingMovies(): Promise<Movie[]> {
-  // In a real app, you would fetch this from the TMDB API
-  // e.g., fetch(`https://api.themoviedb.org/3/trending/movie/week?api_key=${process.env.TMDB_API_KEY}`)
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(mockMovies);
@@ -115,8 +113,6 @@ export async function getTrendingMovies(): Promise<Movie[]> {
 }
 
 export async function getMovieDetails(id: number): Promise<MovieDetails | null> {
-  // In a real app, you would fetch this from the TMDB API
-  // e.g., fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${process.env.TMDB_API_KEY}&append_to_response=credits`)
   return new Promise((resolve) => {
     setTimeout(() => {
       const movie = mockMovies.find((m) => m.id === id);

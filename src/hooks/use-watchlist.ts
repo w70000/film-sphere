@@ -9,7 +9,6 @@ export const useWatchlist = () => {
   const [isInitialized, setIsInitialized] = useState(false);
 
   useEffect(() => {
-    // This effect runs only on the client, after the component mounts.
     try {
       const item = window.localStorage.getItem(WATCHLIST_KEY);
       setWatchlist(item ? JSON.parse(item) : []);
